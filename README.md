@@ -1,8 +1,8 @@
 ### Hello!!! Sweekrithi here, 👋
 
 
-- 🔭 I’m currently working on Software development projects.
-- 🌱 I’m currently learning Swift.
+- 🔭 I’m currently working on Kaggle Projects.
+- 🌱 I’m currently learning Natural Language Processing.
 - 💬 Ask me about prediction models,PowerBI,flutter,business growth/ideas.
 - 📫 How to reach me: [sweekrithishetty.in](http://sweekrithishetty.in/)
 - 😄 Pronouns: She/her
